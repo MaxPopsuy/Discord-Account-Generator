@@ -1,6 +1,6 @@
 # Discord-Account-Generator
 Proof of concept of how the creation of Discord accounts can be automated without the need to type/click buttons on browser.
-
+Ok
 # Patched
 Token gets automatically disabled when joining servers
 
